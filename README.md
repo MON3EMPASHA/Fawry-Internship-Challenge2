@@ -1,3 +1,4 @@
+![Uploading image.png…]()
 # Quantum Bookstore
 
 A simple, extensible Java console application simulating an online bookstore. The system supports multiple book types, inventory management, and a basic purchase flow.
